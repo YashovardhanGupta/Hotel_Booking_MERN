@@ -1,4 +1,4 @@
-# Hotel Booking Application (MERN)
+# Hotel Booking Application 
 
 **Live Demo:** [https://quickstay-three-ashy.vercel.app/](https://quickstay-three-ashy.vercel.app/)
 
